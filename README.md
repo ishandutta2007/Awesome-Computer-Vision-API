@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&oogoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-API/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Computer-Vision-API?style=flat-square" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-API/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Computer-Vision-API?style=flat-square" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-API/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Computer-Vision-API?style=flat-square" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-API/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Computer-Vision-API?style=flat-square" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-API/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Computer-Vision-API?style=flat-square" alt="License" /></a>
@@ -19,7 +19,7 @@
 
 Welcome to **Awesome Computer Vision API** — a comprehensive, developer-first curated directory of **Computer Vision SaaS Platforms**, **Hosted Vision APIs**, and **Open-Source Computer Vision Frameworks**. 
 
-Whether you are looking to integrate pretrained image recognition models, object detection, OCR (Optical Character Recognition), facial analysis, zero-shot segmentation, or deploy production-grade self-hosted vision microservices, this list features category-leading options compared by enterprise size, pricing, free tiers, and GitHub stars.
+Whether you are looking to integrate pretrained image recognition models, object detection, OCR (Optical Character Recognition), facial analysis, zero-shot segmentation, or deploy production-grade self-hosted vision microservices, this list features category-leading options compared by enterprise size, pricing, free tiers, and GitHub_Stars.
 
 ---
 
@@ -57,9 +57,9 @@ Whether you are looking to integrate pretrained image recognition models, object
 
 ## 🔓 Open-Source Computer Vision Frameworks & Libraries
 
-Sorted by **GitHub Star Count (Descending)**.
+Sorted by **GitHub Stars_Count (Descending)**.
 
-| Repo | Description | Stars |
+| Repo | Description | GitHub_Stars |
 | :--- | :--- | :--- |
 | **[Transformers (Hugging Face)](https://github.com/huggingface/transformers)** | State-of-the-art Machine Learning & Computer Vision (ViT, DETR, SAM, Depth Anything, CLIP, Florence-2). **Apache-2.0**. | [![Stars](https://img.shields.io/github/stars/huggingface/transformers?style=social&color=white)](https://github.com/huggingface/transformers/stargazers) |
 | **[OpenCV](https://github.com/opencv/opencv)** | The premier open-source real-time computer vision and image processing library with 2,500+ algorithms. **Apache-2.0**. | [![Stars](https://img.shields.io/github/stars/opencv/opencv?style=social&color=white)](https://github.com/opencv/opencv/stargazers) |
@@ -109,3 +109,12 @@ If you find this curated list helpful for your research, products, or projects, 
 ## 📈 Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Computer-Vision-API&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Computer-Vision-API&type=date&legend=top-left)
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Computer-Vision-API&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Computer-Vision-API_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Computer-Vision-API_growth.svg">
+  </picture>
+</a>
